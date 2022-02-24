@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kiri{
+    background-color: white;
+    width: 30%;
+    height: 800px;
+    float: left;
+    padding: 50px 115px;
+}
+
+.kotakluar{
+    padding: 30px;
+    width: 335px;
+    height: 115px;
+    margin: auto;
+}
+ label{
+    font-size: 20px;
+    width: 100%;
+    margin-right: 300px ;
+}
+
+ input{
+    width: 100%;
+    padding: 20px;
+    border-radius: 60px;
+    margin-bottom: 15px;
+}
+.kiri a {
+    color: green;
+    text-decoration: none;
+}
+
+.kotak{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    float: left;
+    box-shadow: 5px 10px 18px #88888887;
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.f h1{
+    margin-top: 30%;
+    text-align: center;
+    color: blue;
+}
+
+.g h1{
+    margin-top: 30%;
+    text-align: center;
+    color: red;
+}
+
+.kiri button {
+    font-size: 20px;
+    color:white;
+    background-color: blue;
+    padding: 10px 15px;
+    width: 30%;
+    border-radius: 35px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.kanan{
+   background: url(pexels-anna-tarazevich-5697253.jpg);
+   background-color: blue;
+  background-size:cover ;
+    width: 40%;
+    height: 800px;
+    float: right;
+    opacity: 0.8;
+    padding: 50px 50px;
+    color: white;
+}
+
+.kanan h1{
+    opacity: 1;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.kanan h2{
+font-size: 35px;
+}
